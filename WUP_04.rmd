@@ -79,3 +79,6 @@ This graph shows that there is a dotted line that communicates to one looking at
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+This data displays that there is a difference between lt high school and graduate results in addition there is varying statistical results at varying confidence levels for high school and graduate results.   
+
